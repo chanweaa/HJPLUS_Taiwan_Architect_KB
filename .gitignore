@@ -19,3 +19,7 @@ Skills-Architects/
 # wiki/ and outputs/ are local only
 wiki/
 outputs/
+
+# Nested knowledge repositories
+Knowledge-repository/
+.github/Knowledge-repository/
