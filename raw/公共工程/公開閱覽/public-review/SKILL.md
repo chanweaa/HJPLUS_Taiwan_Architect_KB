@@ -4,6 +4,7 @@ description: "This skill should be used when an architect needs to understand Ta
 user-invocable: true
 metadata:
   class: C
+_archived: true
 ---
 
 # Public Review (公開閱覽)
