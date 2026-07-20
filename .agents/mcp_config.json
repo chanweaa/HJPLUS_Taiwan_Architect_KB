@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "tolaria": {
+      "args": [
+        "C:\\Users\\wei\\AppData\\Local\\Tolaria\\mcp-server\\index.js"
+      ],
+      "command": "node",
+      "env": {
+        "VAULT_PATH": "C:\\Users\\wei\\Vaults/HJPLUS_Taiwan_Architect_KB",
+        "VAULT_PATHS": "[\"C:\\\\Users\\\\wei\\\\Vaults/HJPLUS_Taiwan_Architect_KB\",\"C:\\\\Users\\\\wei\\\\Vaults/Git-Hub--Study\"]",
+        "WS_UI_PORT": "9711"
+      }
+    }
+  }
+}

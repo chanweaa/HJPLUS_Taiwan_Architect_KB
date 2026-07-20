@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 name: american-ashrae-fundamentals
 description: "This skill should be used when performing HVAC engineering analysis based on the ASHRAE Handbook—Fundamentals, including psychrometrics, load calculations, heat transfer, fluid mechanics, thermal comfort, ventilation, and energy analysis."
 language: en
@@ -6,6 +7,12 @@ category: Building Services
 subcategory: HVAC
 author: ASHRAE
 version: 1.0
+=======
+name: building-services
+description: "This skill should be used when designing building MEP systems including HVAC, plumbing, electrical, fire protection, and system integration."
+metadata:
+  class: B
+>>>>>>> 0981ac9c724ce9b5e8cb54aa3283a7eb32d7c05b
 ---
 
 # American ASHRAE Fundamentals
